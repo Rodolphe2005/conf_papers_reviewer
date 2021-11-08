@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/conf_papers_reviewer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/conf_papers_reviewer/static/js/main.9359498e.chunk.js",
+    "main.js.map": "/conf_papers_reviewer/static/js/main.9359498e.chunk.js.map",
+    "runtime-main.js": "/conf_papers_reviewer/static/js/runtime-main.87d64c00.js",
+    "runtime-main.js.map": "/conf_papers_reviewer/static/js/runtime-main.87d64c00.js.map",
+    "static/js/2.3fe4ab74.chunk.js": "/conf_papers_reviewer/static/js/2.3fe4ab74.chunk.js",
+    "static/js/2.3fe4ab74.chunk.js.map": "/conf_papers_reviewer/static/js/2.3fe4ab74.chunk.js.map",
+    "static/js/3.1b921cf6.chunk.js": "/conf_papers_reviewer/static/js/3.1b921cf6.chunk.js",
+    "static/js/3.1b921cf6.chunk.js.map": "/conf_papers_reviewer/static/js/3.1b921cf6.chunk.js.map",
+    "index.html": "/conf_papers_reviewer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/conf_papers_reviewer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3fe4ab74.chunk.js.LICENSE.txt": "/conf_papers_reviewer/static/js/2.3fe4ab74.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/conf_papers_reviewer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87d64c00.js",
+    "static/js/2.3fe4ab74.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9359498e.chunk.js"
+  ]
+}
